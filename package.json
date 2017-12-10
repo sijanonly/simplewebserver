@@ -1,0 +1,24 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "Very simple web server using NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sijanonly/simplewebserver.git"
+  },
+  "keywords": [
+    "web-server",
+    "nodejs"
+  ],
+  "author": "Sijan Bhandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sijanonly/simplewebserver/issues"
+  },
+  "homepage": "https://github.com/sijanonly/simplewebserver#readme"
+}
